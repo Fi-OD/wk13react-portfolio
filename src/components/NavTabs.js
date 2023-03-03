@@ -46,16 +46,7 @@ function NavTabs() {
           Projects
         </NavLink>
       </li>
-      <li className="nav-item">
-        <NavLink
-          to="/wk13react-portfolio/contact/project"
-          className={({ isActive }) =>
-            isActive ? 'nav-link active' : 'nav-link'
-          }
-        >
-          Project
-        </NavLink>
-      </li>
+      
     </ul>
   );
 }
