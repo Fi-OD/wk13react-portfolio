@@ -10,7 +10,7 @@ function Home() {
       </div>
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold lh-1 mb-3">FIN -<br></br>NOO -<br></br>LAH</h1>
-        <p class="lead">an experienced museum professional with a passion for leveraging digital technology to revolutionize the museum experience</p>
+        <p class="lead">An experienced museum professional with a passion for leveraging digital technology to revolutionize the museum experience</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Projects</button>
           <button type="button" class="btn btn-outline-secondary btn-lg px-4">CV</button>
