@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import NavTabs from './components/NavTabs';
-import Home from './components/pages/Home';
-import About from './components/pages/About';
-import Contact from './components/pages/Contact';
-import Projects from './components/pages/Projects';
-import ProjectCard from './components/pages/ProjectCard';
-import project from './project.json';
+import NavTabs from './components/NavBar/index';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Contact from './Pages/Contact';
+import Projects from './Pages/Projects';
+//import ProjectCard from './components/pages/Projects/ProjectCard';
+//import project from './project.json';
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
           <Route path="/wk13react-portfolio/about" element={<About />} />
           <Route path="/wk13react-portfolio/contact" element={<Contact />} />
           {/* Define a route that will have descendant routes */}
-          <Route path="/wk13react-portfolio/projects/*" element={<Projects />} />
+          <Route path="/wk13react-portfolio/projects" element={<Projects />} />
         </Routes>
       </div>
     </Router>
