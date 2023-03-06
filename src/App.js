@@ -21,7 +21,7 @@ function App() {
           <Route path="/wk13react-portfolio/about" element={<About />} />
           <Route path="/wk13react-portfolio/contact" element={<Contact />} />
           {/* Define a route that will have descendant routes */}
-          <Route path="/wk13react-portfolio/projects" element={<Projects />} />
+          <Route path="/wk13react-portfolio/projects/*" element={<Projects />} />
         </Routes>
       </div>
     </Router>

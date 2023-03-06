@@ -1,11 +1,11 @@
 import React from 'react';
-import { Link, Route, Routes } from 'react-router-dom';
+import {Route, Routes } from 'react-router-dom';
 //import projectData from "./project.json";
 import CardWrapper from '../components/CardWrapper/index';
 //import Learn from './ProjectCard';
 
 
-function Projects(props) {
+function Projects() {
   return (
     <div>
       <div data-new-gr-c-s-check-loaded="14.1098.0" data-gr-ext-installed="">
