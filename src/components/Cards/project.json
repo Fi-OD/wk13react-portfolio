@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "tile": "Bites Across Borders",
+      "title": "Bites Across Borders",
       "thumbnailUrl":"https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
       "description": "A recipe translation website that uses the Tasty and Text Translate API's",
       "viewUrl": "https://fi-od.github.io/ApiProjectGroup/",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "tile": "Weather Dashboard",
+        "title": "Weather Dashboard",
         "thumbnailUrl":
           "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
         "description": "A weather dashboard that allows the provides the current and five day forecast for the searched city",
@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "tile": "Read Me Generator",
+        "title": "Read Me Generator",
         "thumbnailUrl":
           "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
         "description": "This app generates a professional looking ReadMe based on a users inputs",
@@ -27,7 +27,7 @@
       },
       {
         "id": 4,
-        "tile": "Coding Quiz",
+        "title": "Coding Quiz",
         "thumbnailUrl":
           "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
         "description": "this is a coding quiz",
@@ -36,7 +36,7 @@
       },
       {
         "id": 5,
-        "tile": "Daily Planner",
+        "title": "Daily Planner",
         "thumbnailUrl":
           "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
         "description": "This is a basic planner",
@@ -45,7 +45,7 @@
       },
       {
         "id": 6,
-        "tile": "Password Generator",
+        "title": "Password Generator",
         "thumbnailUrl":
           "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
         "description": "This app generates a unique password for a user based on the users requirements",

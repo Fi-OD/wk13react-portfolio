@@ -5,10 +5,12 @@ import "./style.css";
 function Card(props) {
   //const { title, description, thumbnailUrl, viewUrl, gitHubURL } = props;
 
-  return (<div className="col">
+  return (
+  <div className="col">
   <div className="card">
-    <img ClassName= "card-img-top" src={props.thumbnailUrl} alt={props.title} width="100%" height="300" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>{props.title}</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">{props.title}</text></img>
+    <img className= "card-img-top" src={props.thumbnailUrl} alt={props.title} ></img>
     <div className="card-body">
+    <h3>{props.title}</h3>
       <p className="card-text">{props.description}.</p>
       <div className="d-flex justify-content-between align-items-center">
         <div className="btn-group">
