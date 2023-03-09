@@ -22,15 +22,12 @@ function Projects() {
             </div>
           </section>
           <div className="wrapper">
-            <div className="container">
-              
-              
+            <div>
                 <Routes>
                   <Route path="CardWrapper" element={<CardWrapper />} />
                 </Routes>
               
               <CardWrapper data={projectData}/>
-            
             </div>
           </div>
         </div>

@@ -1,7 +1,10 @@
 .cardWrapper{
   padding-top: 50px;
-  background: #ECEFF1;
-  height: 100%;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 50%;
   display: flex;
   flex-flow: row wrap;
   padding: 20px;

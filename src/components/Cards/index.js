@@ -6,10 +6,10 @@ function Card(props) {
   //const { title, description, thumbnailUrl, viewUrl, gitHubURL } = props;
 
   return (
-  <div className="col">
+ // <div className="col">
   <div className="card">
     <img className= "card-img-top" src={props.thumbnailUrl} alt={props.title} ></img>
-    <div className="card-body">
+    <div className="cardBody">
     <h3>{props.title}</h3>
       <p className="card-text">{props.description}.</p>
       <div className="d-flex justify-content-between align-items-center">
@@ -20,7 +20,7 @@ function Card(props) {
       </div>
     </div>
   </div>
-</div>
+//</div>
 );
 }
     
