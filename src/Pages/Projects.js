@@ -3,7 +3,6 @@ import {Route, Routes } from 'react-router-dom';
 import projectData from '../components/Cards/project.json';
 import CardWrapper from '../components/CardWrapper/index';
 import "./style.css"
-import Card from '../components/Cards/index';
 
 //import Learn from './ProjectCard';
 
@@ -16,7 +15,7 @@ function Projects() {
           <section className="py-5 text-center container">
             <div className="row">
               <div className="col-lg-6 col-md-8 mx-auto">
-                <h1 className="fw-light">Project Board</h1>
+                <h1 className="fw-bold">  Project Board </h1>
                 <p className="lead text-muted">Here I have included a snapshot of some of my favorite projects, projects that not only I have enjoyed but also I feel demonstrate my technical abilities as a UX designer. </p>
               </div>
             </div>

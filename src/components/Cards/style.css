@@ -29,7 +29,7 @@
     filter:grayscale(100%) hue-rotate(#00FF00)
 }
 
-.btn{
+.bbtn{
   background-color: #00FF00;
   color:white;
   padding: 5px 15px;
@@ -41,7 +41,7 @@
   text-decoration: none;
 }
 
-
-  
-  
-  
+.gitHub{
+  width: 25%;
+  margin:10%
+}  

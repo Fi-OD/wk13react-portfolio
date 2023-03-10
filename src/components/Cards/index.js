@@ -15,12 +15,14 @@ function Card(props) {
         <h3>{props.title}</h3>
         <p className="card-text">{props.description}.</p>
         <div className="d-flex justify-content-between align-items-center">
-          <div className="btn-group">
-            <button className="btn" >
-            <a href={props.viewUrl} target="_blank">Page</a></button>
+          <div>
+            <button className="bbtn" >
+              <a href={props.viewUrl}>Page</a></button>
           </div>
           <div>
-          <img src="/images/GitHub_Logo.png"></img>
+            <a href={props.gitHubURL}>
+              <img className="gitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" />
+            </a>
           </div>
         </div>
       </div>
