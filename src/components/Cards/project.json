@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Bites Across Borders",
-      "thumbnailUrl":"https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "thumbnailUrl":"https://cdn-icons-png.flaticon.com/512/2937/2937607.png",
       "description": "A recipe translation website that uses the Tasty and Text Translate API's",
       "viewUrl": "https://fi-od.github.io/ApiProjectGroup/",
       "gitHubURL": "https://github.com/Fi-OD/ApiProjectGroup.git"
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Weather Dashboard",
         "thumbnailUrl":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+          "https://cdn-icons-png.flaticon.com/512/984/984558.png",
         "description": "A weather dashboard that allows the provides the current and five day forecast for the searched city",
         "viewUrl": "https://fi-od.github.io/WK8Weather-Dashboard/",
         "gitHubURL": "https://github.com/Fi-OD/WK8Weather-Dashboard.git"
@@ -20,7 +20,7 @@
         "id": 3,
         "title": "Read Me Generator",
         "thumbnailUrl":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+          "https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png",
         "description": "This app generates a professional looking ReadMe based on a users inputs",
         "viewUrl": "https://fi-od.github.io/WK11READMEGenerator/",
         "gitHubURL": "https://github.com/Fi-OD/WK11READMEGenerator.git"
@@ -29,7 +29,7 @@
         "id": 4,
         "title": "Coding Quiz",
         "thumbnailUrl":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+          "https://cdn-icons-png.flaticon.com/512/5705/5705144.png",
         "description": "this is a coding quiz",
         "viewUrl": "https://fi-od.github.io/WK6Code-Quiz/",
         "gitHubURL": "https://github.com/Fi-OD/WK6Code-Quiz.git"
@@ -38,7 +38,7 @@
         "id": 5,
         "title": "Daily Planner",
         "thumbnailUrl":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+          "https://images.assetsdelivery.com/compings_v2/brovector/brovector2007/brovector200700055.jpg",
         "description": "This is a basic planner",
         "viewUrl": "https://fi-od.github.io/WK7Daily-Planner-App/",
         "gitHubURL":"https://github.com/Fi-OD/WK7Daily-Planner-App.git"
@@ -47,7 +47,7 @@
         "id": 6,
         "title": "Password Generator",
         "thumbnailUrl":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+          "https://cdn-icons-png.flaticon.com/512/159/159478.png",
         "description": "This app generates a unique password for a user based on the users requirements",
         "viewUrl": "https://fi-od.github.io/WK5Password-generator/",
         "gitHubURL": "https://github.com/Fi-OD/WK5Password-generator.git"
