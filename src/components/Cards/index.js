@@ -1,12 +1,12 @@
 import React from "react";
-import Button from "../Button/index"
-
+import "./style.css";
 
 
 function Card(props) {
   //const { title, description, thumbnailUrl, viewUrl, gitHubURL } = props;
 
   return (
+ // <div className="col">
   <div className="card">
     <img className= "card-img-top" src={props.thumbnailUrl} alt={props.title} ></img>
     <div className="cardBody">
@@ -14,18 +14,13 @@ function Card(props) {
       <p className="card-text">{props.description}.</p>
       <div className="d-flex justify-content-between align-items-center">
         <div className="btn-group">
-        <Button
-        onClick={props.handleBtnClick}
-        data-value="Repo"
-      />
-      <Button
-        onClick={props.handleBtnClick}
-        data-value="Page"
-      />
-      </div>
+          <button type="button" className="btn btn-sm btn-outline-secondary">View</button>
+          <button type="button" className="btn btn-sm btn-outline-secondary">Repo</button>
+        </div>
       </div>
     </div>
   </div>
+//</div>
 );
 }
     
