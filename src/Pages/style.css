@@ -1,3 +1,7 @@
+.body{
+background-color: rgb(202, 208, 208);
+}
+
 .wrapper{
     background-color: rgb(235, 235, 237);
     padding-top: 3rem;
@@ -8,4 +12,33 @@
 
 .fw-bold{
     text-decoration: underline 5px solid #00FF00  !important;
+}
+
+.emailBtn
+.cvBtn
+{
+    background-color: #00FF00;
+padding: 6px 19px;
+border-radius: 5px;
+outline:0;
+text-transform:uppercase;
+box-shadow: 0px 2px  lightgrey;
+display: flex !important;
+justify-content: center !important;
+text-decoration: none;
+border-style: none !important;
+font-weight:bold;
+    color:#ff00b3 !important;
+}
+
+.emailDiv,
+cvDiv {
+display: flex !important;
+justify-content: center !important;
+text-decoration: none;
+}
+
+a{color: #00FF00 !important;
+font-weight: bolder !important;
+font-size: large !important;
 }
