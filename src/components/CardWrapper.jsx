@@ -1,7 +1,7 @@
 import React from "react";
-import Card from "../Cards/index";
-import projectData from "../Cards/project.json";
-import "./style.css";
+import Card from "../components/Card";
+import projectData from "../data/project.json";
+import styles from "../components/styles/CardWrapper_module.css";
 
 function CardWrapper() {
     const projects = projectData.projects;
