@@ -1,7 +1,7 @@
 import React from 'react';
 import {Route, Routes } from 'react-router-dom';
-import projectData from '../components/Cards/project.json';
-import CardWrapper from '../components/CardWrapper/index';
+import projectData from '../data/project.json';
+import CardWrapper from '../components/CardWrapper';
 import "./style.css"
 
 //import Learn from './ProjectCard';
