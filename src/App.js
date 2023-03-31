@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavTabs from './components/NavBar';
+import Footer from './components/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
@@ -24,6 +25,7 @@ function App() {
           <Route path="/wk13react-portfolio/projects/*" element={<Projects />} />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }
